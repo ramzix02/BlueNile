@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.2.1)
+  - SDWebImage/Core (5.8.0)
+  - SDWebImage/MapKit (5.8.0):
+    - SDWebImage/Core
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - SDWebImage/MapKit
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: 57c5cec697afec876942ec6ec179108ae75c882f
+
+COCOAPODS: 1.9.1
